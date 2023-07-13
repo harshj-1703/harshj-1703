@@ -21,20 +21,19 @@ Here are some ideas to get you started:
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prem-acharya&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshj-1703&layout=compact&theme=radical)
 
 <b>Note</b>: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<!-- 
+
 
 ## Statistics
 
-![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=prem-acharya&show_icons=true&theme=radical)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshj-1703&show_icons=true&theme=radical)
 
 ## Commit Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prem-acharya&tshow_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harshj-1703&tshow_icons=true&theme=radical)
 
--->
      
 </div>
