@@ -1,20 +1,26 @@
-### Hello everyone harsh jolapara here👋
+<h1 align="center"> <img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>Hi 👋, I'm Harsh Jolapara </h1>
 
-<!--
-**harshj-1703/harshj-1703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
+</div>
+<!-- <h3 align="center">Proficient Web Developer</h3> -->
+<h3 align="center">Software Engineer 💻 Passionate about continuous growth and development.</h3>
+<!-- <h4 align="center">React JS & Node JS  Enthusiastic</h4> -->
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on technologies like: php, javascript, flutter, nlp etc.
-- 🌱 I’m currently learning MERN stack
-- 📫 How to reach me: mail to harshj6680@gmail.com
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-acharya&label=Profile%20views&color=0e75b6&style=flat" alt="harshj-1703" /> </p>
+
+---
+
+
+- ⚙️ I’m currently working on technologies like: php, javascript, flutter, nlp etc.
+- 👯 I’m looking to collaborate on Open Source Projects
+- 💅 Want to work at: *People*
+- 🌱 Learning more about and studying: React JS, Node JS, AI, API, DSA, Open Source*
+- 💬 Ask me about PHP, Flutter , React JS , NLP, Linux
+- 📫 How to reach me *harshj6680@gmail.com*
+- 😄 Passionate about AI and Quantum Computing to bring that tech into peoples hand and AR too!
+- ⚡ Fun fact Love Tech Jokes😂
+---
 
 <div align="center">
 
