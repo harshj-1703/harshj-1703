@@ -1,13 +1,17 @@
-<h1 align="center"> <img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>Hi 👋, I'm Harsh Jolapara </h1>
+<h1 align="center"> 
+     <img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
+     Hi 👋, I'm Harsh Jolapara 
+<img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif" width = 50px>
+</h1>
 
 <div align="center">
-<picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
+<picture> <img align="center" src="" width = 350px></picture>
 </div>
 <!-- <h3 align="center">Proficient Web Developer</h3> -->
 <h3 align="center">Software Engineer 💻 Passionate about continuous growth and development.</h3>
 <!-- <h4 align="center">React JS & Node JS  Enthusiastic</h4> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-acharya&label=Profile%20views&color=0e75b6&style=flat" alt="harshj-1703" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshj-1703&label=Profile%20views&color=0e75b6&style=flat" alt="harshj-1703" /> </p>
 
 ---
 
@@ -18,6 +22,7 @@
 - 🌱 Learning more about and studying: React JS, Node JS, AI, API, DSA, Open Source*
 - 💬 Ask me about PHP, Flutter , React JS , NLP, Linux
 - 📫 How to reach me *harshj6680@gmail.com*
+- 📫 LinkedIn: *https://www.linkedin.com/in/harsh-jolapara-a63b99205/*
 - 😄 Passionate about AI and Quantum Computing to bring that tech into peoples hand and AR too!
 - ⚡ Fun fact Love Tech Jokes😂
 ---
