@@ -36,11 +36,11 @@
 <b>Note</b>: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-
+<!--
 ## Statistics
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshj-1703&show_icons=true&theme=radical)
-
+-->
 ## Commit Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harshj-1703&tshow_icons=true&theme=radical)
