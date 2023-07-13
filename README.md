@@ -1,4 +1,4 @@
-[### Hello everyone harsh jolapara here👋
+### Hello everyone harsh jolapara here👋
 
 <!--
 **harshj-1703/harshj-1703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
