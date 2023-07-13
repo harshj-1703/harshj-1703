@@ -44,7 +44,6 @@
 - 🌱 Learning more about and studying: React JS, Node JS, AI, API, DSA, Open Source*
 - 💬 Ask me about PHP, Flutter , React JS , NLP, Linux
 - 📫 How to reach me *harshj6680@gmail.com*
-<!-- - 📫 LinkedIn: *https://www.linkedin.com/in/harsh-jolapara-a63b99205/* -->
 - 😄 Passionate about AI and Quantum Computing to bring that tech into peoples hand and AR too!
 - ⚡ Fun fact Love Tech Jokes😂
 - LinkedIn:
