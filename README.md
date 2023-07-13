@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on technologies like: php, javascript, flutter, nlp etc.
 - 🌱 I’m currently learning MERN stack
 - 📫 How to reach me: mail to harshj6680@gmail.com
--->
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
