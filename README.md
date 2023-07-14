@@ -50,8 +50,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-harsh_jolapara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-jolapara-a63b99205/)](https://www.linkedin.com/in/harsh-jolapara-a63b99205/)
 
 ---
-<!--
 <div align="center">
+<!--
 
 ## Top Languages
 
