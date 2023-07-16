@@ -1,7 +1,7 @@
 <h1 align="center"> 
-     <img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
+     <img align="left" src = "./about_me.gif" width = 50px>
      Hi 👋, I'm Harsh Jolapara 
-<img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif" width = 50px>
+<img align="right" src = "./Programming_Languages.gif" width = 50px>
 </h1>
 
 <div align="center">
