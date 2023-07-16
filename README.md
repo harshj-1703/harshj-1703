@@ -11,7 +11,7 @@
 <h3 align="center">Software Engineer 💻 Passionate about continuous growth and development.</h3>
 <!-- <h4 align="center">React JS & Node JS  Enthusiastic</h4> -->
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshj-1703&label=Profile%20views&color=0e75b6&style=flat" alt="harshj-1703" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshj-1703&label=Profile%20views&color=0e75b6&style=flat" alt="harshj-1703" /> </p>
 
 ---
 
