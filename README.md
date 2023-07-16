@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-<picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif" width = 350px></picture>
+<picture> <img align="center" src="./Right_Side.gif" width = 350px></picture>
 </div>
 <!-- <h3 align="center">Proficient Web Developer</h3> -->
 <h3 align="center">Software Engineer 💻 Passionate about continuous growth and development.</h3>
