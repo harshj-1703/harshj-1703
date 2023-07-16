@@ -1,5 +1,5 @@
 <h1 align="center"> 
-     <img align="left" src = "./about_me.gif" width = 50px>
+<img align="left" src = "./about_me.gif" width = 50px>
      Hi 👋, I'm Harsh Jolapara 
 <img align="right" src = "./Programming_Languages.gif" width = 50px>
 </h1>
