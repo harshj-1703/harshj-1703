@@ -15,78 +15,66 @@
 <h2 align="center">🛠️ Technologies and Tools I use:</h2>
 
 <h4 align="center">Languages & Frameworks</h4>
-<div align="center">
-
-[![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)](https://en.cppreference.com/w/c)&nbsp;&nbsp;&nbsp;
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)&nbsp;&nbsp;&nbsp;
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)&nbsp;&nbsp;&nbsp;
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;&nbsp;
-[![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/docs/)&nbsp;&nbsp;&nbsp;
-[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)&nbsp;&nbsp;&nbsp;
-[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)&nbsp;&nbsp;&nbsp;
-[![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)](https://tailwindcss.com/docs)&nbsp;&nbsp;&nbsp;
-[![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg)](https://flutter.dev/)&nbsp;&nbsp;&nbsp;
-[![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)](https://www.php.net/)&nbsp;&nbsp;&nbsp;
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/doc/)
-
-</div>
+<p align="center">
+<a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://tailwindcss.com/docs" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.python.org/doc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+</p>
 
 <h4 align="center">Databases</h4>
-<div align="center">
-
-[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)&nbsp;&nbsp;&nbsp;
-[![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)](https://www.postgresql.org/docs/)&nbsp;&nbsp;&nbsp;
-[![MSSQL](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)](https://docs.microsoft.com/en-us/sql/sql-server/)&nbsp;&nbsp;&nbsp;
-[![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)](https://www.sqlite.org/docs.html)&nbsp;&nbsp;&nbsp;
-[![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)](https://www.mongodb.com/)
-
-</div>
+<p align="center">
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://docs.microsoft.com/en-us/sql/sql-server/" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.sqlite.org/docs.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+</p>
 
 <h4 align="center">AWS Services</h4>
-<div align="center">
-
-[![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)](https://aws.amazon.com/ec2/)&nbsp;
-[![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)](https://aws.amazon.com/lambda/)&nbsp;
-[![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)&nbsp;
-[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)](https://aws.amazon.com/dynamodb/)&nbsp;
-[![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)](https://aws.amazon.com/rds/)&nbsp;
-[![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)](https://aws.amazon.com/sqs/)&nbsp;
-[![Amazon Connect](https://img.shields.io/badge/Amazon%20Connect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/connect/)&nbsp;
-[![Pinpoint](https://img.shields.io/badge/Pinpoint-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/pinpoint/)&nbsp;
-[![SES](https://img.shields.io/badge/SES-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ses/)&nbsp;
-[![Location Service](https://img.shields.io/badge/Location%20Service-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/location/)&nbsp;
-[![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)](https://aws.amazon.com/cloudwatch/)&nbsp;
-[![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)](https://docs.aws.amazon.com/apigateway/)&nbsp;
-[![Amazon Lex](https://img.shields.io/badge/Amazon%20Lex-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://docs.aws.amazon.com/lex/)&nbsp;
-[![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://docs.aws.amazon.com/bedrock/)
-
-</div>
+<p align="center">
+<a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://aws.amazon.com/lambda/" target="_blank"><img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://aws.amazon.com/rds/" target="_blank"><img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://aws.amazon.com/sqs/" target="_blank"><img src="https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://aws.amazon.com/connect/" target="_blank"><img src="https://img.shields.io/badge/Amazon%20Connect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://aws.amazon.com/pinpoint/" target="_blank"><img src="https://img.shields.io/badge/Pinpoint-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://aws.amazon.com/ses/" target="_blank"><img src="https://img.shields.io/badge/SES-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://aws.amazon.com/location/" target="_blank"><img src="https://img.shields.io/badge/Location%20Service-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://aws.amazon.com/cloudwatch/" target="_blank"><img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://docs.aws.amazon.com/apigateway/" target="_blank"><img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://docs.aws.amazon.com/lex/" target="_blank"><img src="https://img.shields.io/badge/Amazon%20Lex-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://docs.aws.amazon.com/bedrock/" target="_blank"><img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"/></a>
+</p>
 
 <h4 align="center">Backend as a Service</h4>
-<div align="center">
-
-[![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)](https://firebase.google.com/)
-
-</div>
+<p align="center">
+<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
+</p>
 
 <h4 align="center">Version Control</h4>
-<div align="center">
-
-[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)&nbsp;&nbsp;&nbsp;
-[![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)](https://github.com/docs)&nbsp;&nbsp;&nbsp;
-[![GitLab](https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg)](https://docs.gitlab.com/ee/)&nbsp;&nbsp;&nbsp;
-[![Bitbucket](https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg)](https://support.atlassian.com/bitbucket-cloud/docs/overview/)
-
-</div>
+<p align="center">
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://github.com/docs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://docs.gitlab.com/ee/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://support.atlassian.com/bitbucket-cloud/docs/overview/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="40" height="40"/></a>
+</p>
 
 <h4 align="center">Tools</h4>
-<div align="center">
-
-[![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://learning.postman.com/docs/getting-started/introduction/)&nbsp;&nbsp;&nbsp;
-[![Jira](https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg)](https://support.atlassian.com/jira-software-cloud/docs/jira-software-documentation/)&nbsp;&nbsp;&nbsp;
-[![Swagger](https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg)](https://swagger.io/docs/)
-
-</div>
+<p align="center">
+<a href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://support.atlassian.com/jira-software-cloud/docs/jira-software-documentation/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://swagger.io/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="40" height="40"/></a>
+</p>
 
 ---
 
@@ -136,7 +124,7 @@
 - 📫 How to reach me: **harshj6680@gmail.com**
 - 😄 Passionate about AI, Quantum Computing, and AR — bringing cutting-edge tech into people's hands!
 - LinkedIn:
-[![Linkedin Badge](https://img.shields.io/badge/-harsh_jolapara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshjolapara)](https://www.linkedin.com/in/harshjolapara)
+[![Linkedin Badge](https://img.shields.io/badge/-harsh_jolapara-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshjolapara)
 
 ---
 
