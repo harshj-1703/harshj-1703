@@ -121,7 +121,7 @@
 - 👯 I'm looking to collaborate on Open Source Projects
 - 🌱 Learning more about: React JS, Node JS, Agentic AI, AWS, DSA, Open Source
 - 💬 Ask me about: PHP, Flutter, React JS, Node.js, AWS, Amazon Connect, Agentic AI, NLP, Linux
-- 📫 How to reach me: **harshj6680@gmail.com**
+- 📫 How to reach me: **harshjolapara1703@gmail.com**
 - 😄 Passionate about AI, Quantum Computing, and AR — bringing cutting-edge tech into people's hands!
 - LinkedIn:
 [![Linkedin Badge](https://img.shields.io/badge/-harsh_jolapara-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshjolapara)
